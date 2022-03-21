@@ -1,4 +1,4 @@
-package com.thoriq.ETSGAIS;
+package com.thoriqq.ETSGAIS;
 
 import androidx.appcompat.app.AppCompatActivity;
 

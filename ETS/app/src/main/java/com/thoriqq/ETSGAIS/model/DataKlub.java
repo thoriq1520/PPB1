@@ -1,4 +1,4 @@
-package com.thoriq.ETSGAIS.model;
+package com.thoriqq.ETSGAIS.model;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,7 +9,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.thoriq.ETSGAIS.R;
+import com.thoriqq.ETSGAIS.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.thoriq.ETSGAIS.model;
+package com.thoriqq.ETSGAIS.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;

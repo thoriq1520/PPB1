@@ -1,4 +1,4 @@
-package com.thoriq.ETSGAIS;
+package com.thoriqq.ETSGAIS;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.thoriq.ETSGAIS.model.Klub;
+import com.thoriqq.ETSGAIS.model.Klub;
 import com.squareup.picasso.Picasso;
 
 public class HalamanDetailActivity extends AppCompatActivity {
